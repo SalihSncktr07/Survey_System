@@ -1,0 +1,88 @@
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\ogr\Desktop\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\ResolveAssemblyReference.cache
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\Ümit\Desktop\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+E:\Projelerim (C,C++,C#)\C#\C# Okul Projeleri\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Okul Projeleri\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\onur\Desktop\11. Sınıf\2. Dönem Projeleri\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\hasan\Downloads\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\hasan\Desktop\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.Cache
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\bin\Debug\Gelişmiş Anket Sistemi.pdb
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form1.resources
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form2.resources
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form3.resources
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Form4.resources
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş_Anket_Sistemi.Properties.Resources.resources
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.GenerateResource.cache
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.exe
+C:\Users\salih\OneDrive\Masaüstü\gelişmiş anket sistemii\Gelişmiş Anket Sistemi\obj\Debug\Gelişmiş Anket Sistemi.pdb
